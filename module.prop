@@ -1,0 +1,6 @@
+id=Disable_navigation_bar
+name=Disable navigation bar for pixel 2
+version=v1.0
+versionCode=1
+author=hdvjcvjff
+description=Add settings to build.prop to disable navigation bar
